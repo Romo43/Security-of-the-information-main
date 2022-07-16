@@ -71,28 +71,28 @@
 
 
 ## Crypto
-* ᗯҽιɾԃ Ͳҽאƚ 3: TDXQSMQVHB
-* Chef (4b) - One Little Endian: Shrader
-* Chef (4c) - Whirpool: 0d680e5e4832d76f6930b14a2098c6a2c31017ebb2dbaedcf07a3d43eaefaf9b663ad79083ee3436e5f3a8d60d046d5c7ee7d986d727e94bbedfd0d085507fed
-* Chef (5) - MD5 Me!: ccc9852ab342ea86bc3f8351b3320fb8
-* Chef (4a) - "-.. .- ... .... -.. --- -": morse/guayama/1859
-* Who's that pokemon?: Eevee/Vaporeon/Jolteon/Flareon/Umbreon/Glaceon/Leafeon/Espeon/Sylveon
-* bynary (2): 11000000111001
-* Logical (1):10111110
-* Logical(4): 10011000
-* Logical (5): 10001101
-* Logical(3): 10101010
-* Logical(2): 10011001
 * Hex (1) - Decimal: 12345
 * Hex (2) - Binary: 11000000111001
+* Logical(3): 10101010
+* Logical(2): 10011001
+* Logical (1):10111110
 * Hex (3) - Octal: 30071 
-* Hex (4) - Quaternary: 3000321
 * Chef (2) - Pump up the Base: 8hV547KQxTMqKeByt
 * Certified: Q4wkZ2dE5m52HPQx
 * Chef (3) - Caesar´s Palace: Cleopatra
 * 47 RONIN: h0nor_f0r_th3_str0ng
+* Hex (4) - Quaternary: 3000321
+* Logical(4): 10011000
+* Chef (4a) - "-.. .- ... .... -.. --- -": morse/guayama/1859
+* Logical (5): 10001101
+* Chef (4c) - Whirpool: 0d680e5e4832d76f6930b14a2098c6a2c31017ebb2dbaedcf07a3d43eaefaf9b663ad79083ee3436e5f3a8d60d046d5c7ee7d986d727e94bbedfd0d085507fed
+* Chef (4b) - One Little Endian: Shrader
+* Chef (5) - MD5 Me!: ccc9852ab342ea86bc3f8351b3320fb8
+* See No Evil on the Mirror: QGCJTXBYLPBNATPW
+* ᗯҽιɾԃ Ͳҽאƚ 3: TDXQSMQVHB
 * Alien Talk: HJ4YBF6R
 * Earth Day: 0465b990308733ccda18aa1be7ffc61a6dce8fdb
+* Who's that pokemon?: Eevee/Vaporeon/Jolteon/Flareon/Umbreon/Glaceon/Leafeon/Espeon/Sylveon
 
 ## Forensics
 * Stranger Files (1) - GNP: t79a3jw8
